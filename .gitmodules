@@ -1,0 +1,3 @@
+[submodule "theme/keats"]
+	path = theme/keats
+	url = git@github.com:/Kings-College-London/keats
